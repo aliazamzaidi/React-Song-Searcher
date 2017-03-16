@@ -1,0 +1,14 @@
+#App{
+    text-align: center;
+    /*margin-top: 6vh;*/
+    padding: 5%
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+.title{
+    font-size: 1.6em
+}
